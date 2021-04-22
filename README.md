@@ -1,2 +1,3 @@
-- RA MIT EvLab
-- lipkinb@mit.edu
+- 💻 https://benlipkin.github.io/
+- 🐦 https://twitter.com/ben_lipkin
+- ✉️ lipkinb@mit.edu
