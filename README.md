@@ -1,2 +1,2 @@
-RA MIT EvLab
-lipkinb@mit.edu
+- RA MIT EvLab
+- lipkinb@mit.edu
