@@ -1,3 +1,1 @@
-- 💻 https://benlipkin.github.io/
-- 🐦 https://twitter.com/ben_lipkin
-- ✉️ lipkinb@mit.edu
+Contact me @ ✉️ lipkinb@mit.edu
