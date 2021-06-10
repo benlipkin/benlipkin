@@ -1,1 +1,1 @@
-Contact me @ lipkinb@mit.edu
+contact me @ lipkinb@mit.edu
